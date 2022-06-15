@@ -57,6 +57,7 @@ function App() {
         "client-id": "AVJLQDmVwZTYdiZHJMnURyIpj4i1VaaBhkEs8iHok6TAalZ1t37HCh8SD3aqPbOoIcfcNudLspGmAO73",
       }}
     >
+      <PayPalButtons style={{ layout: "horizontal" }} />
       <div>
         <div className="wrapper">
           <div className="product-img">
